@@ -1,6 +1,6 @@
 # 📚 Computer Science: An Interdisciplinary Approach - Solutions
 
-![Language](https://img.shields.io/badge/Language-Java)
+![Language](https://img.shields.io/badge/Language-Java_-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
